@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Less Biased Noise Scale Estimation for Threshold-Robust RANSAC <br> IMW 2025</h1>
+  <h1 align="center"> Less Biased Noise Scale Estimation for Threshold-Robust RANSAC <br> CVPRW (Image Matching Workshop) 2025 </h1>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=Ul-vMR0AAAAJ">Johan Edstedt</a>
   </p>
