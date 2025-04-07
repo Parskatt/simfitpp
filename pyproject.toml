@@ -1,7 +1,7 @@
 [project]
 name = "simfitpp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Library for estimating the inlier threshold for two-view relative pose estimation using RANSAC."
 readme = "README.md"
 authors = [
     { name = "Johan Edstedt", email = "johan.edstedt@liu.se" }
